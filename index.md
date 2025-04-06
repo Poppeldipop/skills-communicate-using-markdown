@@ -11,3 +11,8 @@ int add(int a, int b) {
 return a + b;
 }
 ```
+- [x] Eggs
+- [x] Milk
+- [ ] Potatoes
+- [ ] Cheese
+- [ ] Sweets
